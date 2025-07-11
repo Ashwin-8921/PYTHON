@@ -1,0 +1,6 @@
+2025-07-07 09:00:00,000 INFO: Booting system.
+2025-07-07 09:01:00,000 DEBUG: Checking devices.
+2025-07-07 09:02:00,000 WARNING: Low battery.
+2025-07-07 09:03:00,000 ERROR: System crash.
+MALFORMED LINE
+2025-07-07 09:04:00,000 TRACE: Tracing activity.

@@ -1,0 +1,9 @@
+{
+  "user": {
+    "name": "Ashwin",
+    "details": {
+      "age": 25,
+      "skills": ["Python", "C"]
+    }
+  }
+}

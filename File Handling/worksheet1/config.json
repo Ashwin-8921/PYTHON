@@ -1,0 +1,13 @@
+{
+  "version": "1.1.0",
+  "features": {
+    "reporting": true,
+    "analytics": true,
+    "dark_mode": false
+  },
+  "max_users": 150,
+  "maintenance": {
+    "enabled": false,
+    "window": "02:00-03:00"
+  }
+}

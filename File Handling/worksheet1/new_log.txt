@@ -1,0 +1,2 @@
+2025-03-01 08:10:00,003 ERROR: [Service] - Service X failed to start.
+2025-03-01 08:10:00,003 ERROR: [Service] - Service X failed to start.

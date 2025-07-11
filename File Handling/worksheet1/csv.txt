@@ -1,0 +1,6 @@
+TestCase,Status,ExecutionTime
+LoginTest,Passed,1.20
+SignupTest,Failed,2.10
+CheckoutTest,Passed,0.85
+ProfileUpdateTest,Skipped,1.00
+LogoutTest,Passed,0.95

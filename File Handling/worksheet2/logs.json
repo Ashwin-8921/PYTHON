@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-07-07 09:00:00",
+    "log_level": "INFO",
+    "module": "System",
+    "message": "System initialized"
+  },
+  {
+    "timestamp": "2025-07-07 09:10:00",
+    "log_level": "ERROR",
+    "module": "Database",
+    "message": "Connection failed"
+  },
+  {
+    "timestamp": "2025-07-07 09:20:00",
+    "log_level": "DEBUG",
+    "module": "Network",
+    "message": "Packet received"
+  }
+]

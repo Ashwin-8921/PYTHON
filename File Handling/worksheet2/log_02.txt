@@ -1,0 +1,6 @@
+2025-07-07 10:00:00,001 INFO: System started
+2025-07-07 10:05:00,123 ERROR: Failed to load module
+2025-07-07 10:10:00,456 WARNING: High memory usage
+ERROR just happened
+2025-07-07 10:15:00,789 ERROR: Disk full
+Error - manual failure

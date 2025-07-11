@@ -1,0 +1,4 @@
+2025-07-07 10:00:00,123 INFO: [System] - Boot complete
+2025-07-07 10:05:00,456 ERROR: [Network] - Failed to connect
+Malformed line here
+2025-07-07 10:10:00,789 WARNING: [Disk] - Low space

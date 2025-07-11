@@ -1,0 +1,4 @@
+[2025-07-07 09:00:00] [INFO] [System] System initialized
+[2025-07-07 09:10:00] [ERROR] [Database] Connection failed
+MALFORMED LINE
+[2025-07-07 09:20:00] [DEBUG] [Network] Packet received
